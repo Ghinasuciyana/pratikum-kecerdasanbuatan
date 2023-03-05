@@ -1,1 +1,1 @@
-# pratikum-kecerdasanbuatan
+# pratikum_kecerdasan_buatan
